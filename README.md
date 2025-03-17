@@ -1,2 +1,3 @@
-# Monte-Carlo-Simulations
-Monte Carlo Simulation of the Ising Model Uisng Standard Boundary Conditions
+# Monte-Carlo-Simulations Random Walk
+Monte Carlo Simulation of the Random Walk 
+Developed and implemented simulations of random walks to analyze statistical properties and long-term behavior.
